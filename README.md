@@ -8,7 +8,7 @@ Deploying AWS Security Hub to aggregate security findings and benchmarks across 
 
 
 ## 2. Identifying the Vulnerability (S3 Public Access)
-The "Before" state: An S3 bucket (compliance-test-unencrypted) with a wide-open policy allowing s3:GetObject to Principal: *—a critical data leak risk.
+The "Before" state: An S3 bucket (compliance-test-unencrypted) with a wide-open policy allowing s3:GetObject to Principal: a critical data leak risk.
 <img width="1920" height="831" alt="One_Click_Compliance_Security_Hub_Insights_12" src="https://github.com/user-attachments/assets/290d6db8-5be2-40ee-9dcb-c6c5df692c6b" />
 
 ## 3. Automated Detection via Access Analyzer
