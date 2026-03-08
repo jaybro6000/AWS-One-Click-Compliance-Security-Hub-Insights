@@ -21,7 +21,7 @@ Crafting an EventBridge Rule using a JSON pattern to listen specifically for Acc
 
 ## 5. Verified Incident Response (Email Alert)
 The "Proof of Concept": An automated email notification delivered via SNS, providing the security team with the exact Bucket ARN and account details for immediate remediation.
-<img width="956" height="399" alt="One_Click_Compliance_Security_Hub_Insights_15" src="https://github.com/user-attachments/assets/25866090-9eca-4c87-88d1-8409caee75d5" />
+<img width="956" height="399" alt="One_Click_Compliance_Security_Hub_Insights_15" src="https://github.com/user-attachments/assets/bdd7ad82-9987-4a80-9d34-e38a15a520e4" />
 
 
 ## Tech Stack
