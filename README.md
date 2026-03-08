@@ -1,5 +1,5 @@
 ## AWS One-Click Compliance & Security Hub Insights
-An Automated Cloud Governance project focused on eliminating misconfigured S3 buckets and enforcing real-time security guardrails. By integrating AWS Security Hub, IAM Access Analyzer, and Amazon EventBridge, this system provides an "always-on" monitoring pipeline that catches and alerts on public exposure within seconds of a policy change. ⚡
+An Automated Cloud Governance project focused on eliminating misconfigured S3 buckets and enforcing real-time security guardrails. By integrating AWS Security Hub, IAM Access Analyzer, and Amazon EventBridge, this system provides an "always-on" monitoring pipeline that catches and alerts on public exposure within seconds of a policy change.
 
 ## Project Workflow
 ## 1. Centralized Security Governance
